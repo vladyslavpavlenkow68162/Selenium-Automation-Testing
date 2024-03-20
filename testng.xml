@@ -1,0 +1,7 @@
+<suite name="FormTest">
+    <test name="FormTest" >
+        <classes>
+            <class name="FormTest" />
+        </classes>
+    </test>
+</suite>
